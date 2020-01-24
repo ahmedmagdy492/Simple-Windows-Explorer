@@ -1,0 +1,9 @@
+C:\Users\AhmeD-Magdy\source\repos\FileControl\Photos\bin\Debug\Photos.exe.config
+C:\Users\AhmeD-Magdy\source\repos\FileControl\Photos\bin\Debug\Photos.exe
+C:\Users\AhmeD-Magdy\source\repos\FileControl\Photos\bin\Debug\Photos.pdb
+C:\Users\AhmeD-Magdy\source\repos\FileControl\Photos\obj\Debug\Photos.csprojAssemblyReference.cache
+C:\Users\AhmeD-Magdy\source\repos\FileControl\Photos\obj\Debug\Photos.Photo.resources
+C:\Users\AhmeD-Magdy\source\repos\FileControl\Photos\obj\Debug\Photos.Properties.Resources.resources
+C:\Users\AhmeD-Magdy\source\repos\FileControl\Photos\obj\Debug\Photos.csproj.GenerateResource.cache
+C:\Users\AhmeD-Magdy\source\repos\FileControl\Photos\obj\Debug\Photos.exe
+C:\Users\AhmeD-Magdy\source\repos\FileControl\Photos\obj\Debug\Photos.pdb

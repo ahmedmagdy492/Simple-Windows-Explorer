@@ -1,0 +1,8 @@
+C:\Users\AhmeD-Magdy\source\repos\FileControl\FileControl\bin\Debug\FileControl.dll
+C:\Users\AhmeD-Magdy\source\repos\FileControl\FileControl\bin\Debug\FileControl.pdb
+C:\Users\AhmeD-Magdy\source\repos\FileControl\FileControl\obj\Debug\FileControl.csprojAssemblyReference.cache
+C:\Users\AhmeD-Magdy\source\repos\FileControl\FileControl\obj\Debug\FileControl.Properties.Resources.resources
+C:\Users\AhmeD-Magdy\source\repos\FileControl\FileControl\obj\Debug\FileControl.UserControl1.resources
+C:\Users\AhmeD-Magdy\source\repos\FileControl\FileControl\obj\Debug\FileControl.csproj.GenerateResource.cache
+C:\Users\AhmeD-Magdy\source\repos\FileControl\FileControl\obj\Debug\FileControl.dll
+C:\Users\AhmeD-Magdy\source\repos\FileControl\FileControl\obj\Debug\FileControl.pdb

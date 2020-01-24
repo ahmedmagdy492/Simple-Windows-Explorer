@@ -1,0 +1,15 @@
+C:\Users\AhmeD-Magdy\source\repos\FileControl\Explorer\bin\Debug\Explorer.exe.config
+C:\Users\AhmeD-Magdy\source\repos\FileControl\Explorer\bin\Debug\Explorer.exe
+C:\Users\AhmeD-Magdy\source\repos\FileControl\Explorer\bin\Debug\Explorer.pdb
+C:\Users\AhmeD-Magdy\source\repos\FileControl\Explorer\obj\Debug\Explorer.csprojAssemblyReference.cache
+C:\Users\AhmeD-Magdy\source\repos\FileControl\Explorer\obj\Debug\Explorer.Properties.Resources.resources
+C:\Users\AhmeD-Magdy\source\repos\FileControl\Explorer\obj\Debug\Explorer.csproj.GenerateResource.cache
+C:\Users\AhmeD-Magdy\source\repos\FileControl\Explorer\obj\Debug\Explorer.exe
+C:\Users\AhmeD-Magdy\source\repos\FileControl\Explorer\obj\Debug\Explorer.pdb
+C:\Users\AhmeD-Magdy\source\repos\FileControl\Explorer\bin\Debug\FileControl.dll
+C:\Users\AhmeD-Magdy\source\repos\FileControl\Explorer\bin\Debug\FileControl.pdb
+C:\Users\AhmeD-Magdy\source\repos\FileControl\Explorer\obj\Debug\Explorer.csproj.CopyComplete
+C:\Users\AhmeD-Magdy\source\repos\FileControl\Explorer\obj\Debug\Explorer.Explorer.resources
+C:\Users\AhmeD-Magdy\source\repos\FileControl\Explorer\obj\Debug\Explorer.PhotosApp.resources
+C:\Users\AhmeD-Magdy\source\repos\FileControl\Explorer\obj\Debug\Explorer.Editor.resources
+C:\Users\AhmeD-Magdy\source\repos\FileControl\Explorer\obj\Debug\Explorer.RenameFile.resources
